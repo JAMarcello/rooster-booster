@@ -22,3 +22,7 @@ function writePassword() {
 function generatePassword() {
 
 }
+
+function getPrompts() {
+  characterAmount = prompt("How many characters do you want in your password?")
+}
